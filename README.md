@@ -19,6 +19,6 @@ supported luajit [extensions](https://luajit.org/extensions.html):
 #
 
 >
-> [docs](https://chimera.uno)
+> [docs](https://github.com/current/chimera-docs/blob/main/docs/docs.md)
 
-> [examples](https://chimera.uno)
+> [examples](https://github.com/current/chimera-docs/blob/main/examples/examples.md)
